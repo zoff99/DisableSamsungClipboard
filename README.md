@@ -1,0 +1,2 @@
+# DisableSamsungClipboard
+DisableSamsungClipboard Xposed module
